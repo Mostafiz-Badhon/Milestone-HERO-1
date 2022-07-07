@@ -9,6 +9,13 @@
 
 }
 
+.bi {
+    margin: 10px;
+    padding: 8px;
+    text-decoration: none;
+    background-color: azure;
+}
+
 .donate {
     font-size: 30px;
     text-align: center;
@@ -103,11 +110,16 @@ p {
     font-weight: 700;
     padding: 10px 40px;
 }
+
 .half-width {
     width: 50%;
     padding: left 5px;
 
 }
+
 .half-width img {
     width: 80%;
+}
+.foot{
+    text-align: center; padding: 3px; background-color: DarkSalmon; color: white;
 }
